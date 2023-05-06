@@ -1,0 +1,4 @@
+import 'package:geolocator/geolocator.dart';
+
+const mapsAPI="AIzaSyAmvYhKa7f3JkymOBvOna3ay9r3fbYvVeM";
+String fcmServerKey = "AAAAZb2331Y:APA91bERmCJrY1GeAjYRV6aACuA2DZA8Dvb6EtscKtaa4hg3uQFhVbDpQRKjgUs4CFSuNcnXlu8asxERgtN7m9M-npxAHPiyj2cI_qtBI_r8dSPDelIIgsSUqVwNd9R6sqXM3qV_Tvb_";
